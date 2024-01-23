@@ -1,4 +1,4 @@
-//Assignment operator
+/*//Assignment operator
  a=10
  console.log("output of a is",a)
 
@@ -19,6 +19,25 @@ e=0
 console.log("&& operator output:",d&&e)
 console.log("|| operator outpit:",d||e)
 console.log("! operator outpit:",!d)
+//Relational operator
+
+aR=10
+bR=11
+console.log("Relational operator > is",aR>bR)
+console.log("Relational operator >= is",aR>=bR)
+console.log("Relational operator < is",aR<bR)
+console.log("Relational operator <= is",aR<=bR)
+console.log("Relational operator === is",aR===bR)
+console.log("Relational operator !==",aR!==bR)
+*/
+
+
+//objects
+
+
+//How will you declare objects
+
+
 
 
 
